@@ -1,1 +1,2 @@
-# Pink_ponk
+# Pink_ponk 
+Игра Пинк_понк...
